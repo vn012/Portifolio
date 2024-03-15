@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+$primary-dark: rgb(93, 61, 168);
+$primary-medium: rgb(82, 119, 150);
+$primary-light: rgba(0, 203, 255, 1);
+
+body{
+    background: rgb(20,56,80);
+    background: linear-gradient(90deg, rgba(20,56,80,1) 0%, rgba(19,123,189,1) 49%, rgba(27,67,93,1) 100%);
+
+}
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
